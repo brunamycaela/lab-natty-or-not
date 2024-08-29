@@ -20,22 +20,43 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 ### Template
 
 ```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+One Piece
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+One Piece é uma série de mangá e anime de aventura escrita e ilustrada por Eiichiro Oda. É considerada uma das maiores e mais populares séries de mangá de todos os tempos, com mais de 1000 capítulos publicados e uma adaptação de anime com mais de 1000 episódios. Aonde a Ia generativa me tras o resumo desse anime, aonde assistir e muitos outros detalhes.
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+Foi usada a Gemini - https://gemini.google.com/app/a181e07f5eec5476?hl=pt-BR
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Pedi para ele me informar o que é One piece.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+One Piece é uma série de mangá e anime de aventura escrita e ilustrada por Eiichiro Oda. É considerada uma das maiores e mais populares séries de mangá de todos os tempos, com mais de 1000 capítulos publicados e uma adaptação de anime com mais de 1000 episódios.
+
+Sinopse:
+
+A história de One Piece se passa em um mundo fictício onde os piratas são os governantes dos mares. O protagonista, Monkey D. Luffy, é um jovem pirata que sonha em se tornar o Rei dos Piratas, encontrando o lendário tesouro "One Piece". Luffy possui a habilidade de esticar seu corpo como borracha após comer um fruto do diabo.
+
+Junto com sua tripulação, os Piratas do Chapéu de Palha, Luffy embarca em uma grande aventura explorando os vastos oceanos, enfrentando inimigos poderosos e descobrindo segredos sobre o passado do mundo.
+
+Por que One Piece é tão popular?
+
+Personagens carismáticos: Os personagens de One Piece são diversos, memoráveis e possuem personalidades únicas, o que torna fácil se conectar a eles.
+Mundo vasto e detalhado: O mundo de One Piece é extremamente rico e detalhado, com diferentes culturas, histórias e lugares exóticos.
+Aventura e ação: A série é repleta de aventuras emocionantes, batalhas épicas e momentos de suspense.
+Humor e comédia: Além da ação, One Piece também é conhecido por seu humor e cenas cômicas.
+Temas profundos: A série aborda temas como amizade, lealdade, sonhos, liberdade e o significado da vida.
+Onde assistir:
+
+Você pode assistir One Piece no Crunchyroll, plataforma de streaming especializada em animes.
+
+Recomendação:
+
+Se você gosta de aventuras, personagens cativantes e um mundo vasto e detalhado, One Piece é definitivamente uma série que você deve conferir. É uma jornada épica que vai te prender do início ao fim.
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
+Comente sobre o desafio de criar algo 'natty' com IA. Esse eu pedi somente uma informação, mas ele pode criar texto , codigos, conteudos, informativos de estudo, links, imagens com ou sem orientação e criar produtos ou log . Isso é somente um pouco do que ela pode fazer.
 ```
 
 ### Exemplos e Insigths
